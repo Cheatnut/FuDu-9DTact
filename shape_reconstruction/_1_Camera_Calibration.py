@@ -243,3 +243,5 @@ if __name__ == '__main__':
     config_path = 'shape_config.yaml'
     cc = CameraCalibration(config_path)
     cc.run()
+
+# test
